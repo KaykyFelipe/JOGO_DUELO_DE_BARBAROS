@@ -1,0 +1,1 @@
+Exercício em C# orientado a objetos | Criando um jogo de duelo de Barbaros onde a classe barbaro apresenta varios atributos necessarios para batalhas e metodos que alteram os atributos dos objetos da classe | Solicitado pelo Professor Eduardo
