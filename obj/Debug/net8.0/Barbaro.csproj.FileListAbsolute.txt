@@ -1,0 +1,14 @@
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\bin\Debug\net8.0\Barbaro.exe
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\bin\Debug\net8.0\Barbaro.deps.json
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\bin\Debug\net8.0\Barbaro.runtimeconfig.json
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\bin\Debug\net8.0\Barbaro.dll
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\bin\Debug\net8.0\Barbaro.pdb
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.AssemblyInfoInputs.cache
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.AssemblyInfo.cs
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.csproj.CoreCompileInputs.cache
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.dll
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\refint\Barbaro.dll
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.pdb
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\Barbaro.genruntimeconfig.cache
+C:\Users\dudacandido\source\repos\Barbaro\Barbaro\obj\Debug\net8.0\ref\Barbaro.dll
