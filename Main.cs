@@ -9,22 +9,22 @@ using  JogoBarbaro;
 
 //EXEMPLO TESTE DOS METODOS NA MAIN
 
-Barbaro Bruno = new Barbaro();
-Barbaro Felipe = new Barbaro();
+Barbaro Eduardo = new Barbaro();
+Barbaro Kayky = new Barbaro();
 
 
-Felipe.nome = "Felipe";
-Bruno.nome = "Bruno";
+Kayky.nome = "Felipe";
+Eduardo.nome = "Professor Eduardo";
 
-Felipe.status();
-Felipe.upar();
-Felipe.upar();
-Felipe.upar();
-Felipe.upar();
-Felipe.upar();
-Felipe.status();
-Felipe.revigorar(20, 5);
-Felipe.status();
-Felipe.atacar(Bruno);
+Kayky.status();
+Kayky.upar();
+Kayky.upar();
+Kayky.upar();
+Kayky.upar();
+Kayky.upar();
+Kayky.status();
+Kayky.revigorar(18, 5);
+Kayky.status();
+Kayky.atacar(Eduardo);
 
 
